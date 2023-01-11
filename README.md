@@ -1,6 +1,6 @@
 # BasicMath
 
-This is Hrithika's basic math repository. I am in Primary 6 studying in Clementi Primary School. 
+This is Hrithika's basic math repository. I am in Secondary 1 studying in Clementi Town Secondary School. 
 This repository contains programs in the language of Python. The purpose of this repository is to explore Python for basic Math and Logical Reasoning.
 To execute programs from this repository, you have to do the following steps
 STEP 1: DOWNLOAD THE FILE
